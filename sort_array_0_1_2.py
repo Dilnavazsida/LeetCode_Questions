@@ -22,3 +22,4 @@ def sort_array_0_1_2(arr):
 
 arr = [1, 2, 0, 2, 1, 0]
 print(sort_array_0_1_2(arr))
+
